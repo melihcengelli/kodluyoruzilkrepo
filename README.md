@@ -36,7 +36,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, şütfen önce neyi
 ## Licence
 
 
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje](proje.png/)
